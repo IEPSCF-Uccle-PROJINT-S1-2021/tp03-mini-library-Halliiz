@@ -1,0 +1,20 @@
+#select
+{
+  margin: 5px;
+  padding: 5px;
+}
+
+#input
+{
+  padding: 10px 10px;
+  text-decoration: none;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+
+}
+
+.custum-select{
+  position: relative;
+  font-family: Arial;
+}
